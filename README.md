@@ -37,3 +37,8 @@ Clique no botão de play, no canto superior esquerdo e simule!
 Após isso, o seu código já vai está rodando na sua plaquinha BitDogLab.
 
 *3°*: Está pronto.
+
+
+*Video explicando a atividade*
+
+https://youtu.be/-CDalJslsKs
