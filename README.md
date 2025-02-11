@@ -39,6 +39,11 @@ Após isso, o seu código já vai está rodando na sua plaquinha BitDogLab.
 *3°*: Está pronto.
 
 
+*Resposta para o iten 6 do pdf:* Trocando o pino GPIO 22 do servomotor para o pino 12 do led RGB da Bitdoglab é possível analisar que o codigo das mudanças de posição para 0°, 90° e 180° no LED é diferente onde ele muda a intensidade do led, alternando para forte, medio e baixo.
+
+
+
+
 *Video explicando a atividade*
 
 https://youtu.be/-CDalJslsKs
